@@ -1,0 +1,47 @@
+.row-h3 {
+    padding-bottom: 75px;
+}
+
+.row-h4 {
+    padding-bottom: 75px;
+}
+
+.number-input {
+    text-align: center;
+}
+
+@media only screen and (max-width: 600px)  {
+
+    h3 {
+        font-size: 1.92rem;
+        line-height: 30px;
+        margin: 0px;
+    }
+
+    h4 {
+        font-size: 1.28rem;
+        line-height: 30px;
+    }
+
+    .row-h3 {
+        padding-bottom: 0px;
+    }
+
+    .row-h4 {
+        padding-bottom: 0px;
+        margin: 0px;
+    }
+
+    .no-contact-picture {
+        width: 60px;
+    }
+
+    .whats-section {
+        margin-top: 0px;
+    }
+
+    .section-no-contact {
+        padding-top: 80px;
+
+    }
+}
